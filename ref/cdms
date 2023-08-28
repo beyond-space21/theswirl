@@ -1,0 +1,6 @@
+firebase init
+firebase login:add account@gmail.com
+firebase login:use account@gmail.com
+firebase init hosting
+firebase emulators:start
+firebase deplaoy --only hosting

@@ -1,0 +1,30 @@
+body{
+    background-color: #6b854a;
+    margin: 0;
+    padding: 0;
+}
+.top_nav_bar{
+    position: fixed;
+    height: 40px;
+    right: 0px;
+    left: 0px;
+    margin:  15px 50px 0px 50px;
+    border: solid 2px #fff;
+    border-radius: 15px;
+}
+.webpage{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(#796752, #e0c9a8);
+}
+#profile_img{
+    border-radius: 100%;
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 30px;
+    border: 0;
+    background-color: rgb(249, 139, 5);
+}
